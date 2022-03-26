@@ -11,6 +11,6 @@ public class ArList {
 		System.out.println(ex.indexOf(30));
 		
 		
-	}
+	}ddsfs
 
 }
