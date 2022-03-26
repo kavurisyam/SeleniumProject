@@ -6,6 +6,10 @@ public class GoldLoad {
 			System.out.println("Gold Load dept....");
 		}
 		
+		public void goldLoan1() {
+			System.out.println("Gold Load dept....");
+		}
+		
 	}
 	
 
